@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Connect with me:
+linkedin Luca The Professional
+
+Languages and Tools:
+bootstrap csharp css3 django dotnet figma git html5 javascript mssql mysql postman python react
+
 <!--
 **Vacation-Time/Vacation-Time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
