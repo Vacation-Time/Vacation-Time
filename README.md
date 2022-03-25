@@ -1,4 +1,4 @@
-### Greetings 👋 😎
+### Well Hello 👋 😎
 <h3>A passionate full-stack web developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
