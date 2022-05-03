@@ -1,4 +1,4 @@
-### Well Hello 👋 😎
+### Well Hello 👋 😎 I am coding! ☜(ﾟヮﾟ☜) 🤯
 <h3>Absolutely Fascinated With Full-stack Web Development!</h3>
 
 <h3 align="left">Connect with me:</h3>
