@@ -1,5 +1,5 @@
 ### Well Hello 👋 😎 I am coding!  🤯
-<h3>Absolutely Fascinated With Full-stack Web Development ☜(ﾟヮﾟ☜) </h3>
+<h3>Absolutely Fascinated With Full-Stack Web Development ☜(ﾟヮﾟ☜) </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
