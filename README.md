@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/luca-the-professional-b71ba6232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nmhawkins" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages/Tools So Far:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://media0.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif?cid=ecf05e479899zga2ob1wr3uoq13eolp67e0sneofodqdjk8b&rid=giphy.gif&ct=s" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>  </p>
+<h3 align="left">Languages I am Currently Learning ✍(◔◡◔):</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://media0.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif?cid=ecf05e479899zga2ob1wr3uoq13eolp67e0sneofodqdjk8b&rid=giphy.gif&ct=s" alt="python" width="40" height="40"/> </a> </p>
 
 <!--
 **Vacation-Time/Vacation-Time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
